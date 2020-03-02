@@ -1,0 +1,4 @@
+1.Extract all the files and put in one folder(mean copy all files from pictures and web code to single folder)
+2.Run the apache tomcat server
+3.copy the contents folder to htdocs of tomcat
+4.open browser and run the file :)
